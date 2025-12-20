@@ -1,0 +1,1 @@
+/Users/apple/Documents/Projects/Casperflow/casperflow/contracts/casperflow/target/wasm32-unknown-unknown/release/casperflow.wasm: /Users/apple/Documents/Projects/Casperflow/casperflow/contracts/casperflow/src/main.rs
